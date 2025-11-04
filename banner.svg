@@ -28,7 +28,7 @@
 
   <!-- Headline -->
   <text x="60" y="185" font-family="Inter, Segoe UI, Roboto, Arial" font-weight="800" font-size="64" fill="url(#txt)">
-    Trần Thành Chơn · tranchon2702
+    Trần Nguyễn Thành Chơn · tranchon2702
   </text>
   <text x="60" y="240" font-family="Inter, Segoe UI, Roboto, Arial" font-weight="600" font-size="28" fill="#cbd5e1">
     Full-Stack Developer · JavaScript · Node.js · React · Next.js · DevOps
