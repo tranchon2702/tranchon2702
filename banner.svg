@@ -31,7 +31,7 @@
   <text x="60" y="235" font-family="Inter, Segoe UI, Roboto, Arial" font-weight="500" font-size="28" fill="#cbd5e1">Full Stack Developer · JavaScript · Node.js · React · Next.js · DevOps</text>
 
   <g font-family="Inter, Segoe UI, Roboto, Arial" font-weight="600" font-size="18">
-    <rect x="60" y="280" rx="14" ry="14" width="230" height="40" fill="#0ea5e9" opacity="0.18"/>
+    <rect x="60" y="280" rx="14" ry="14" width="250" height="40" fill="#0ea5e9" opacity="0.18"/>
     <text x="85" y="305" fill="#93c5fd">Building modern web apps</text>
 
     <rect x="310" y="280" rx="14" ry="14" width="260" height="40" fill="#8b5cf6" opacity="0.18"/>
