@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tranchon2702/tranchon2702/main/banner.svg" alt="Trần Thành Chơn banner"/>
+  <img src="https://raw.githubusercontent.com/tranchon2702/tranchon2702/refs/heads/main/banner.svg" alt="Trần Thành Chơn banner"/>
 </p>
 
 <!-- Quick intro -->
