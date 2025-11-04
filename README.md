@@ -46,10 +46,8 @@
 ---
 
 ## 🔗 Spotlight
-- 🧪 **FunnyChat_Deploy** – Graduation project (real-time chat)
-- 📄 **MyCV-Project** – CV builder / portfolio
-- 🗂 **DoAn3 / DoAn** – Course projects  
-> *Pin các repo này ở tab **Customize your pins** trên trang profile để hiện đẹp hơn.*
+
+
 
 ---
 
@@ -57,9 +55,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tranchon2702&theme=onedark&margin-w=12&margin-h=12&no-frame=true" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tranchon2702&style=for-the-badge&color=blue" />
-</p>
+
 
 ---
 
